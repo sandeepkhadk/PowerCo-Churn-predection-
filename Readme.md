@@ -1,4 +1,4 @@
-````markdown
+
 # PowerCo Churn Prediction
 
 ## Project Overview
@@ -153,4 +153,3 @@ Potential next steps include:
 This project focuses on exploratory data analysis and does not currently contain a production-ready churn prediction model. The observed relationships describe patterns in the data and should not be interpreted as causal.
 
 No artificial imputation, row deletion, or outlier removal was performed during the initial analysis.
-````
